@@ -14,7 +14,6 @@ function addTask() {
     }
     inputBox.value = "";
     saveData();
-
 }
 
 listContainer.addEventListener('click', function (e) {
